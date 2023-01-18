@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.gwt/
+.settings/
+target/
+.project
+.classpath
